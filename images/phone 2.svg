@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="90px" viewBox="0 0 54 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>phone</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Prototype" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="phone" fill-rule="nonzero" fill="#F42175">
+            <g id="noun_1296019_cc">
+                <g id="Group" transform="translate(0.000000, 0.637820)">
+                    <path d="M5,0.36213 C2.2473,0.36213 0,2.60943 0,5.36213 L0,83.3622 C0,86.1149 2.2473,88.3622 5,88.3622 L49,88.3622 C51.7527,88.3622 54,86.1149 54,83.3622 L54,5.36214 C54,2.60944 51.7527,0.36214 49,0.36214 L5,0.36213 Z M5,2.36213 L49,2.36213 C50.6793,2.36213 52,3.68286 52,5.36213 L52,8.36213 L2,8.36213 L2,5.36213 C2,3.68283 3.3208,2.36213 5,2.36213 Z M2,10.36213 L52,10.36213 L52,74.3622 L2,74.3622 L2,10.36213 Z M2,76.3622 L52,76.3622 L52,83.3622 C52,85.0415 50.6793,86.3622 49,86.3622 L5,86.3622 C3.3208,86.3622 2,85.0415 2,83.3622 L2,76.3622 Z M27,79.3622 C25.8955,79.3622 25,80.2576 25,81.3622 C25,82.4668 25.8955,83.3622 27,83.3622 C28.1046,83.3622 29,82.4668 29,81.3622 C29,80.2576 28.1046,79.3622 27,79.3622 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
